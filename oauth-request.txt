@@ -1,0 +1,7 @@
+https://wallet.uphold.com/authorize/6d8d9473ed20be627f71ed46e207f40c004c5b1a?scope=accounts:read%20accounts:write%20cards:read%20cards:write%20user:read%20transactions:deposit%20transactions:read%20transactions:transfer:application%20transactions:transfer:others&intention=login&state=C47A46B22A1DFE975DC324DE44AF970C4343BA95A221F723F5D82C03C49DD1DB
+
+https://wallet.uphold.com/authorize/6d8d9473ed20be627f71ed46e207f40c004c5b1a?scope=accounts:read accounts:write cards:read cards:write user:read transactions:deposit transactions:read transactions:transfer:application transactions:transfer:others&intention=login&state=C47A46B22A1DFE975DC324DE44AF970C4343BA95A221F723F5D82C03C49DD1DB
+
+https://exchange.gemini.com/signin?redirect=a6597a2e16965f8284c0ac74bc3884e552855b0c-1672403362872-%2Fauth%3Fclient_id%3D60de40a4-f365-442f-9450-0531824e8be7%26scope%3Dbalances%3Aread%2Chistory%3Aread%2Ccrypto%3Asend%2Caccount%3Aread%2Cpayments%3Acreate%2C%26redirect_uri%3Drewards%3A%2F%2Fgemini%2Fauthorization%26state%3D4A38E3461650DEF49DE5093B6AE4063484AC8CAECC16CD3283BE1036A031ED01%26response_type%3Dcode
+
+https://exchange.gemini.com/signin?redirect=a6597a2e16965f8284c0ac74bc3884e552855b0c-1672403362872-/auth?client_id=60de40a4-f365-442f-9450-0531824e8be7&scope=balances:read,history:read,crypto:send,account:read,payments:create,&redirect_uri=rewards://gemini/authorization&state=4A38E3461650DEF49DE5093B6AE4063484AC8CAECC16CD3283BE1036A031ED01&response_type=code
